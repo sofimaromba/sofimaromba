@@ -1,3 +1,7 @@
-Meu nome é **Sofia**, tenho 15 anos.
-Sou estudante da escola E.E Nove de Julho, estou no primeiro ano do Ensino Médio.
-na aula de Tecnologia e Robótica estou utilizando a plataforma Alura, fornecida pelo CMSP.
+**sofia**
+
+_Tecnologia e Robótica_
+
+🐶
+
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVvMWYwZnc0ZW41OWNldHNnaGh6d2J1emVpODlmMGlodmZsNDl5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Jhok92mZ2PZHjDG/giphy.webp)
